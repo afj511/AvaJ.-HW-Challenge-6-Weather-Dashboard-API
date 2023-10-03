@@ -1,7 +1,7 @@
 # AvaJ.-HW-Challenge-6-Weather-Dashboard-API
 
 # In order to use the Weather Dashboard, use the live link given below.
-Link:
+Link: https://afj511.github.io/AvaJ.-HW-Challenge-6-Weather-Dashboard-API/
 
 
 # You will be taken to the page
